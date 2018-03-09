@@ -5,7 +5,6 @@ Set up Wallaby for Angular. This guide assumes you have Wallaby.js extension ins
 ```
 ng new PROJECT-NAME
 cd PROJECT-NAME
-ng serve
 ````
 
 2. Add the wallaby.js config file to root of the project.

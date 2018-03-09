@@ -8,7 +8,7 @@ cd PROJECT-NAME
 ng serve
 ````
 
-2. Add the wallaby.js config file to the project.
+2. Add the wallaby.js config file to root of the project.
 `https://github.com/wallabyjs/ngCliWebpackSample/blob/master/wallaby.js`
 
 

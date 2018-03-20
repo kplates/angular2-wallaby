@@ -1,4 +1,4 @@
-# Angular 2 Wallaby Demo
+# Angular 2 - Wallabyjs getting started
 Set up Wallaby for Angular. This guide assumes you have Wallaby.js extension installed for VS Code and Angular CLI installed globally.
 
 1. Create angular cli project
@@ -22,3 +22,8 @@ cd PROJECT-NAME
 5. Select config file (wallaby.js) by typing `Wallaby.js: Select Configuration File` in the command pallete
 
 6. Start Wallaby.js by running `Wallaby.js: Start` in the command pallete
+
+**Documents regarding setup**
+
+* Installation - https://wallabyjs.com/docs/intro/install.html
+* Advanced Logging - https://wallabyjs.com/docs/intro/advanced-logging.html
